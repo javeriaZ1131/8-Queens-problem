@@ -14,8 +14,15 @@ produced, or a satisfactory fitness level has been reached for the population.
 
 Here Two different types of GA concepts are implemenetd 
 firstly,
+    Designed the GA for finding the best values of x,y,z for the given equation.
 
-Designed the GA for finding the best values of x,y,z for the given equation.
 Secondly,
+  I Ateempted to designed the fitness function of the 8 queens problem.
 
- I Ateempted to designed the fitness function of the 8 queens problem.
+
+
+
+END
+
+
+Thanks...!!
